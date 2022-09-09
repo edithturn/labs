@@ -1,5 +1,9 @@
 # PMM Server, PMM Client and MySQL containers
 
+<p align="center">
+<img width="500" height="300" src="../img/pmm-container-black.png">
+</p>
+
 ## Set Up MySql Docker container
 
 ```bash
